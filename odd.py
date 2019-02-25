@@ -1,5 +1,5 @@
 a=int(input(""))
 if(a%2!=0):
-   print("invalid")
+   print("odd")
 else:
-   print("valid")
+   print("even")
